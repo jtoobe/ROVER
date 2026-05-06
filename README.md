@@ -1,4 +1,4 @@
 # ROVER
 Documentacion Rover multifuncion
 
-(https://github.com/jtoobe/ROVER/blob/main/imagenes/rover.jpeg)
+![Rover](https://github.com/jtoobe/ROVER/blob/main/imagenes/rover.jpeg)
